@@ -258,12 +258,18 @@ color: goldenrod;
   #main-menu li {
     margin: 0 10px;}
 
-
+    .connect{
+      border-radius: 30px;
+      font-size: 1em;
+      font-weight: bold;
+      box-shadow: 1px 1px 3px goldenrod;
+    }
     .img{
         animation: expo 3s infinite ease-in-out; 
         border-radius: 80px;
     
      }
+    
     
      @keyframes expo {
     
